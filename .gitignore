@@ -1,0 +1,4 @@
+__pycache__
+ns-3.43/build/
+ns-3.43/cmake-cache/
+ns-3.43/.lock-ns3_linux_build
